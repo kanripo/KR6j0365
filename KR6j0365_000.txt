@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說虛空藏菩薩陀羅尼
+#+DATE: 2015-08-30 20:31:02.290078
+#+PROPERTY: JUAN 0
