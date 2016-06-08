@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:02.076488
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:58
 #+TITLE: 佛說虛空藏菩薩陀羅尼
 #+PROPERTY: CBETA_ID T20n1148
 #+PROPERTY: ID KR6j0365
